@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+
+	<servlet>
+   			 <servlet-name>reg</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>reg</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>reg</servlet-name>
+  		     <url-pattern>/reg</url-pattern>
+		</servlet-mapping>
+			
+	<servlet>
+   			 <servlet-name>regg</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>regg</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>regg</servlet-name>
+  		     <url-pattern>/regg</url-pattern>
+		</servlet-mapping>
+			
+		
+
+	<servlet>
+   			 <servlet-name>reg1</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>reg1</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>reg1</servlet-name>
+  		     <url-pattern>/reg1</url-pattern>
+		</servlet-mapping>
+			
+		
+
+		<servlet>
+   			 <servlet-name>login1</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>login1</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>login1</servlet-name>
+  		     <url-pattern>/login1</url-pattern>
+		</servlet-mapping>
+				
+
+		<servlet>
+   			 <servlet-name>logerr</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>logerr</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>logerr</servlet-name>
+  		     <url-pattern>/logerr</url-pattern>
+		</servlet-mapping>
+					
+
+	<servlet>
+   			 <servlet-name>login2</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>login2</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>login2</servlet-name>
+  		     <url-pattern>/login2</url-pattern>
+		</servlet-mapping>
+					
+
+	<servlet>
+   			 <servlet-name>login3</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>login3</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>login3</servlet-name>
+  		     <url-pattern>/login3</url-pattern>
+		</servlet-mapping>
+			
+		
+		<servlet>
+   			 <servlet-name>show</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>show</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>show</servlet-name>
+  		     <url-pattern>/show</url-pattern>
+		</servlet-mapping>
+			
+		
+		<servlet>
+   			 <servlet-name>view</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>view</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>view</servlet-name>
+  		     <url-pattern>/view</url-pattern>
+		</servlet-mapping>
+						
+		
+		<servlet>
+   			 <servlet-name>edit1</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>edit1</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>edit1</servlet-name>
+  		     <url-pattern>/edit1</url-pattern>
+		</servlet-mapping>
+						
+		
+		<servlet>
+   			 <servlet-name>search1</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>search1</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>>
+
+		<servlet-mapping>
+ 		     <servlet-name>search1</servlet-name>
+  		     <url-pattern>/search1</url-pattern>
+		</servlet-mapping>
+						
+		
+		<servlet>
+   			 <servlet-name>update</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>update</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>update</servlet-name>
+  		     <url-pattern>/update</url-pattern>
+		</servlet-mapping>
+			
+		<servlet>
+   			 <servlet-name>update1</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>update1</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>update1</servlet-name>
+  		     <url-pattern>/update1</url-pattern>
+		</servlet-mapping>
+			
+				
+		<servlet>
+   			 <servlet-name>search2</servlet-name>
+ 			 <description>This is my first servlet</description>
+			 <servlet-class>search2</servlet-class>
+  			 <load-on-startup>6</load-on-startup>
+		</servlet>
+
+		<servlet-mapping>
+ 		     <servlet-name>search2</servlet-name>
+  		     <url-pattern>/search2</url-pattern>
+		</servlet-mapping>
+			
+		
+</web-app>
